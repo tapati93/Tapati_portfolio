@@ -29,7 +29,15 @@
 
 ## Tools and Technologies: Python, Tableau, SQL
 
-# [Project 4: HR Analytics Dashboard](https://github.com/tapati93/HRAnalytics-Dashboard)
+# [Project 4: Online Streaming Data Visualization](https://github.com/tapati93/Online-Streaming-Data-Visualization)
+•	Created a real-time TMDB data pipeline utilizing Python to collect data and streamline it with Kafka producer and consumer.
+
+
+•	Connected Apache Kafka to MongoDB and performed dataset analysis and visualization using Python (Jupyter Notebook).
+
+## Tools and Technologies:Python, Kafka, MongoDB, Tableau
+
+# [Project 5: HR Analytics Dashboard](https://github.com/tapati93/HRAnalytics-Dashboard)
 • Project helps an Organization to improve employee performance retentation by creating HR Analytics dashboard.
 
 
