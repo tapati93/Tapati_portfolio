@@ -2,8 +2,6 @@
 <h3 align="center">I am outgoing, dedicated, and open-minded. I get across to people and adjust to changes with ease. I am a Data enthusiast with years of experience as a Data Analyst and pursued MSc in the same field. Experience in Data Modeling, Data Warehousing, Data Collection, Data Preparation, Data Analysis, Data Visualization using Python/R libraries. Energetic presenter and confident communicator with the ability to circulate information in a way that is clear, efficient, and beneficial for end users. Good Knowledge of MS Suite. Creative in building attractive visualizations dashboards and reports.</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://tapati93.github.io/Tapati_portfolio/](https://tapati93.github.io/Tapati_portfolio/)
-
 - 📫 How to reach me **tapati93@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
