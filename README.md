@@ -23,6 +23,7 @@
 # [Project 3: Impact of COVID & Weather on Pedestrian Trends](https://github.com/tapati93/Pedestrian-Count-in-Germany-Based-on-Covid-and-Weather) 
 •	Used real-time streaming data through multiple APIs to analyze and visualize the impact of corona and weather on the pedestrian count across various cities in Germany.
 
+
 •	Conducted comprehensive visualization in Tableau by presenting the forecast for the upcoming week's weather alongside historical and present weather data.
 
 
@@ -30,6 +31,8 @@
 
 # [Project 4: HR Analytics Dashboard](https://github.com/tapati93/HRAnalytics-Dashboard)
 • Project helps an Organization to improve employee performance retentation by creating HR Analytics dashboard.
+
+
 • This Projects Identified key factors to reduce attrition , Improved the hiring process, Improved employee Experience, Made Workforce More Productive, Gained Employee trust.
 
 ## Tools and Technologies: PowerBI, Microsoft Excel 
