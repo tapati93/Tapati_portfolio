@@ -3,7 +3,9 @@
 
 # [Project 1 : Mental Health Disorder of US](https://github.com/tapati93/Mental-Health-Disorder-of-US) 
 •	Performed Exploratory Analysis of the dataset to understand the key points that need to be highlighted.
+
 •	Through an interactive dashboard, provided a summary of the various health problems that US individuals face and a detailed visualization of different mental illnesses being suffered based on age and gender.
+
 •	Analysis of annual patterns in mental health disorders based on states of US.
 
 ## Tools and Technologies: Tableau, Excel, SQL
@@ -11,6 +13,7 @@
 
 # [Project 2: Courier Services dashboard](https://github.com/tapati93/RR-Courier-Services)
 • The objective of this task is to perform sales analysis dashboard for a courier services company.
+
 • Data was transformed and loaded from PostgreSQL to increase the efficiency of the PowerBI Dashboard
 
 ## Tools and Technologies:PowerBI, PostgreSQL, MS-Excel
