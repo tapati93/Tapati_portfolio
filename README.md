@@ -9,14 +9,11 @@
 ## Tools and Technologies: Tableau, Excel, SQL
 
 
+# [Project 2: Courier Services dashboard](https://github.com/tapati93/RR-Courier-Services)
+• The objective of this task is to perform sales analysis dashboard for a courier services company.
+• Data was transformed and loaded from PostgreSQL to increase the efficiency of the PowerBI Dashboard
 
-# [Project 2: Weather and Air Quality Analysis](https://github.com/Aniket5511/Weather-and-Air-Quality-Analysis)
-• Leveraged Confluent platform, wherein there was a Kafka Producer and Kafka Consumer, and Project was 
-set up on GCP. Streamlined weather & air quality data collection using Python.
-• Data was stored In Mongo dB using Mongo dB sink connecter for Apache Kafka and visualization in 
-Tableau.
-
-## Tools and Technologies: Confluent Cloud, Apache Kafka, MongoDB, GCP-VM, Python, Tableau
+## Tools and Technologies:PowerBI, PostgreSQL, MS-Excel
 
 # [Project 3: Flad & Flad gmbh: Effects of Air Pollution on Health](https://github.com/Aniket5511/Flad-Flad-gmbh-Effects-of-Air-Pollution-on-Health/tree/main) 
 • Performed Exploratory Analysis of the dataset to understand and figure out what might be interesting to 
