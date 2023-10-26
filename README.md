@@ -33,7 +33,7 @@
 •	Created a real-time TMDB data pipeline utilizing Python to collect data and streamline it with Kafka producer and consumer.
 
 
-•	Connected Apache Kafka to MongoDB and performed dataset analysis and visualization using Python (Jupyter Notebook).
+•	Connected Apache Kafka to MongoDB and performed dataset analysis and visualization using Python (Jupyter Notebook) and Tableau.
 
 ## Tools and Technologies:Python, Kafka, MongoDB, Tableau
 
