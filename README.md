@@ -4,7 +4,9 @@
 # [Project 1 : Mental Health Disorder of US](https://github.com/tapati93/Mental-Health-Disorder-of-US) 
 •	Performed Exploratory Analysis of the dataset to understand the key points that need to be highlighted.
 
+
 •	Through an interactive dashboard, provided a summary of the various health problems that US individuals face and a detailed visualization of different mental illnesses being suffered based on age and gender.
+
 
 •	Analysis of annual patterns in mental health disorders based on states of US.
 
